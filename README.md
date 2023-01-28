@@ -5,4 +5,6 @@ Beide Anwendungen wurden mit IntelliJ erstellt und es wurde die JDK Version 17.0
 
 ## Konsolenanwendung
  
- Um die Konsolenanwendung zu starten, muss nu
+ Um die Konsolenanwendung zu starten, muss das Directory 'Konsolenanwendung' als Java Projekt in die IDE eingebunden werden. Weitere Schritte sind nicht zu tun.
+ 
+## Vaadin-Anwendung 
